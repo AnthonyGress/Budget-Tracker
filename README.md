@@ -10,9 +10,21 @@
 
 ## Description
 
-A full stack progressive web appp (PWA) that allows you to add, subtract, and save your budget/expenses both online and offline. It also organizes the data using a graph which provides detailed information about your spending habits over time.
+Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important.
 
-This application's structure follows the Model-View-Controller paradigm. It uses **_MongoDB_** and **_Mongoose_** to connect to a NoSQL MongoDB database for the Models and **_Express.js_** for the Controllers. It also uses **_indexedDB_** for offline storage of data.
+This is a full stack progressive web appp (PWA) that allows you to add, subtract, and save your budget/expenses both online and offline. It also organizes the data using a graph which provides detailed information about your spending habits over time.
+
+This application's structure follows the Model-View-Controller paradigm. It uses **_MongoDB_** and **_Mongoose_** to connect to a NoSQL MongoDB database for the Models and **_Express.js_** for the Controllers. It also uses **_indexedDB_** for temporary storage of data while offline.
+
+Offline Functionality:
+
+- Enter deposits offline
+
+- Enter expenses offline
+
+When brought back online:
+
+- Offline entries should be added to tracker.
 
 ## Table of Contents
 
