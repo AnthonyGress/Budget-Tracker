@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-<a href="https://stargate-app.herokuapp.com/" target="_blank"><div align="center"><img width="1435" alt="Screen Shot Budget Tracker" src="https://user-images.githubusercontent.com/70029654/130147641-8fbc4552-d25c-4a74-bd42-f9cc86a2085e.png">
+<a href="https://immense-thicket-58645.herokuapp.com/" target="_blank"><div align="center"><img width="1435" alt="Screen Shot Budget Tracker" src="https://user-images.githubusercontent.com/70029654/130147641-8fbc4552-d25c-4a74-bd42-f9cc86a2085e.png">
 
 </div></a>
 
