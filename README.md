@@ -3,15 +3,16 @@
 ## Screenshot
 
 <a href="https://stargate-app.herokuapp.com/" target="_blank"><div align="center"><img width="1435" alt="Screen Shot Budget Tracker" src="https://user-images.githubusercontent.com/70029654/130147641-8fbc4552-d25c-4a74-bd42-f9cc86a2085e.png">
+
 </div></a>
 
 ## Live Site [Click Here](https://immense-thicket-58645.herokuapp.com/)
 
 ## Description
 
-A full stack fitness tracker app that allows you to save your workouts and get organize them using graphs. It also provides detailed information about your workout habits over time.
+A full stack progressive web appp (PWA) that allows you to add, subtract, and save your budget/expenses both online and offline. It also organizes the data using a graph which provides detailed information about your spending habits over time.
 
-This application's structure follows the Model-View-Controller paradigm. It uses **_MongoDB_** and **_Mongoose_** to connect to a NoSQL MongoDB database for the Models and **_Express.js_** for the Controllers.
+This application's structure follows the Model-View-Controller paradigm. It uses **_MongoDB_** and **_Mongoose_** to connect to a NoSQL MongoDB database for the Models and **_Express.js_** for the Controllers. It also uses **_indexedDB_** for offline storage of data.
 
 ## Table of Contents
 
@@ -36,7 +37,7 @@ npm i
 
 This site is live at [Budget Tracker](https://immense-thicket-58645.herokuapp.com/)
 
-To use this node app and create your own local server, clone the repo down, use the terminal to cd into the root directory. Then run:
+To use this node app and create your own local development server, clone the repo down, use the terminal to cd into the root directory. Then run:
 
 ```
 npm start
